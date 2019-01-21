@@ -1,1 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
+/captures
+*/build
+*/.idea
+.idea/*
+.idea/*.xml
+*/lint-report.html
+music.properties
+*/.idea/*.xml
